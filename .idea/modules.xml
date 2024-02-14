@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NASManila-Live-migration_retrofit.iml" filepath="$PROJECT_DIR$/.idea/modules/NASManila-Live-migration_retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NASManila-Live-migration_retrofit.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NASManila-Live-migration_retrofit.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NASManila-Live-migration_retrofit.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NASManila-Live-migration_retrofit.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NASManila-Live-migration_retrofit.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NASManila-Live-migration_retrofit.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NASManila-Live-migration_retrofit.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NASManila-Live-migration_retrofit.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/giraffeplayer/NASManila-Live-migration_retrofit.giraffeplayer.iml" filepath="$PROJECT_DIR$/.idea/modules/giraffeplayer/NASManila-Live-migration_retrofit.giraffeplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/giraffeplayer/NASManila-Live-migration_retrofit.giraffeplayer.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/giraffeplayer/NASManila-Live-migration_retrofit.giraffeplayer.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/giraffeplayer/NASManila-Live-migration_retrofit.giraffeplayer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/giraffeplayer/NASManila-Live-migration_retrofit.giraffeplayer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/giraffeplayer/NASManila-Live-migration_retrofit.giraffeplayer.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/giraffeplayer/NASManila-Live-migration_retrofit.giraffeplayer.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer-java/NASManila-Live-migration_retrofit.ijkplayer-java.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer-java/NASManila-Live-migration_retrofit.ijkplayer-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer-java/NASManila-Live-migration_retrofit.ijkplayer-java.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer-java/NASManila-Live-migration_retrofit.ijkplayer-java.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer-java/NASManila-Live-migration_retrofit.ijkplayer-java.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer-java/NASManila-Live-migration_retrofit.ijkplayer-java.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer-java/NASManila-Live-migration_retrofit.ijkplayer-java.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer-java/NASManila-Live-migration_retrofit.ijkplayer-java.unitTest.iml" />
+    </modules>
+  </component>
+</project>
